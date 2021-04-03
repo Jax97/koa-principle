@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "events": "^3.3.0"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
